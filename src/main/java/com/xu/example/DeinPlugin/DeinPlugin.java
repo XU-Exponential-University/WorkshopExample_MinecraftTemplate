@@ -2,7 +2,11 @@ package com.xu.example.DeinPlugin;
 
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.plugin.java.annotation.plugin.Plugin;
+import org.bukkit.plugin.java.annotation.plugin.ApiVersion;
 
+@Plugin(name="DeinErstesPlugin", version="1.0")
+@ApiVersion(ApiVersion.Target.DEFAULT)
 public class DeinPlugin extends JavaPlugin {
 
     final BeispielJoinListener playerJoinListener = new BeispielJoinListener();
