@@ -6,9 +6,9 @@ import org.bukkit.command.CommandSender;
 
 public class BeispielCommand implements CommandExecutor {
 
-    SpigotPlugin plugin;
+    DeinPlugin plugin;
 
-    public BeispielCommand(SpigotPlugin plugin) {
+    public BeispielCommand(DeinPlugin plugin) {
         this.plugin = plugin;
     }
 

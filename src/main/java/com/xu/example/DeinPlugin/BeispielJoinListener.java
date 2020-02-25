@@ -5,7 +5,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 
-public class ExampleJoinListener implements Listener {
+public class BeispielJoinListener implements Listener {
 
     // Diese Funktion wird ausgeführt wenn ein User den Server betritt
     @EventHandler

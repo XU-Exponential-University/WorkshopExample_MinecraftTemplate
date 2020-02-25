@@ -1,5 +1,6 @@
 package com.xu.example.DeinPlugin;
 
+import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class DeinPlugin extends JavaPlugin {
