@@ -9,5 +9,6 @@ Bitte ziehe, um die Voreinstellung der Enwicklungsumgebung anzuschließen, jetzt
 ## Links
 
 [Was macht die XU?](https://xu-university.com/)
+
 [Spigot-Dokumentation](https://hub.spigotmc.org/javadocs/spigot/overview-summary.html)
 
