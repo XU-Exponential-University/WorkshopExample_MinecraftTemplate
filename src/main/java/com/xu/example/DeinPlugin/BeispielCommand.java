@@ -4,7 +4,9 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
-@org.bukkit.plugin.java.annotation.command.Command(name="Beispiel")
+// Mit dieser Annotation sagen wir dem Server das dies hier ein neuer Command wird. 
+// Der Parameter Name muss dem Befehl im Spiel entsprechen.
+@org.bukkit.plugin.java.annotation.command.Command(name="Beispiel") 
 public class BeispielCommand implements CommandExecutor {
 
     DeinPlugin plugin;
