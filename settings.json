@@ -16,7 +16,6 @@
     "**/target/generated-sources": true, 
     "**/target/generated-test-sources": true, 
     "**/target/maven*": true,
-    "**/README.md*": true,
     "**/META-INF": true,
     "**/.theia**": true,
     "**/.gitignore": true, 
